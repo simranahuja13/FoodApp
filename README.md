@@ -1,8 +1,9 @@
-# React + Vite
+# 🍔 My Food Search App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to My Food Search App, a simple React application that helps you find your favorite dishes and filter them with ease.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🔍 *Search Your Favorites*: Simply enter your favorite dish in the search bar and watch it appear.
+- 📌 *Filter Your Dishes*: Use filters to sort your favorite dishes quickly.
+
